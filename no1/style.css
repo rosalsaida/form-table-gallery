@@ -1,0 +1,48 @@
+header {
+    font-family: "Poppins-Regular";
+    padding: 20px 0 0 0;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.container {
+    width: 700px;
+}
+
+form,
+.form-select,
+.btn-primary {
+    font-family: "Poppins-Light";
+    font-size: 14px;
+}
+
+div {
+    margin: 20px 0;
+}
+
+div label {
+    padding-bottom: 10px;
+}
+
+#npm,
+#name,
+#address {
+    font-size: 14px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding-top: 5px;
+}
+
+.form-check-input {
+    margin-right: 10px;
+}

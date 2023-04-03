@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(224, 206, 218);
+}
+
+img {
+    width: 7cm;
+    margin: 5px 5px;
+}
+
+center {
+    padding: 3% 0;
+}
+
+img:hover {
+    width: 9cm;
+    box-shadow: 5px 5px 10px rgba(28, 105, 221, 0.6);
+    transition: 1s;
+    transition-duration: 1s;
+}

@@ -1,0 +1,25 @@
+h1 {
+    font-family: "Poppins-Regular";
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding: 50px 0 5px 0;
+}
+
+table {
+    font-size: 14px;
+    max-width: 1000px;
+}
+
+th {
+    vertical-align: middle;
+}
+
+td {
+    text-align: center;
+}
+
+.npm,
+.name {
+    text-align: start;
+}
