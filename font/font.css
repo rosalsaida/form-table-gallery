@@ -1,14 +1,14 @@
 @font-face {
     font-family: "Poppins-Bold";
-    src: url("/praktikumPBW/praktikum5/tugas/font/poppins/Poppins-Bold.otf")
+    src: url("poppins/Poppins-Bold.otf")
 }
 
 @font-face {
     font-family: "Poppins-Regular";
-    src: url("/praktikumPBW/praktikum5/tugas/font/poppins/Poppins-Regular.otf");
+    src: url("poppins/Poppins-Regular.otf");
 }
 
 @font-face {
     font-family: "Poppins-Light";
-    src: url("/praktikumPBW/praktikum5/tugas/font/poppins/Poppins-Light.otf");
+    src: url("poppins/Poppins-Light.otf");
 }
